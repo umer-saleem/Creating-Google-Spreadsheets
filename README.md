@@ -46,7 +46,11 @@
 
 ### Sharing Google Sheet with Service Account
 * Open the already created google spreadsheet.
-* Share the sheet with the service account email created in the previous steps.
+* Click on the **Share** button on the top right corner.
+* Enter the service account email created in the previous steps.
+![](Sharing_Service_Account.JPG)
+
+* Uncheck **Notify People** option and click **Share** with **Editor** option.
 
 
 
