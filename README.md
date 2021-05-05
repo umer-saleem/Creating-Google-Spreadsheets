@@ -52,6 +52,7 @@
 
 * Uncheck **Notify People** option and click **Share** with **Editor** option.
 
+### Log-in to the Service Account
 
 
 ### Downloading the Repository
