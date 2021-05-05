@@ -73,5 +73,7 @@
 
   `$ pip install -r requirements.txt`
   
+* Open the spreadsheet in gmail account and copy the url. For e.g. **https://docs.google.com/spreadsheets/d/SPREADSHEET_ID/edit#gid=0**. Here just keep the **SPREADSHEET_ID** and remove the rest. Assign this string to the **SAMPLE_SPREADSHEET_ID** variable in the **main.py** file inside the root directory.
+  
 
 **Python virtual environment** is recommended.
