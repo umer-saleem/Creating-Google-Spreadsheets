@@ -1,8 +1,8 @@
 # Data Extraction using Google Spreadsheet (Python)
 
-# Steps to Perform
+## Steps to Perform
 
-## Downloading the Repository
+### Downloading the Repository
 * Navigate inside the root folder of the repository
 
-## Installing Python Libraries
+### Installing Python Libraries
