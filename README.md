@@ -8,6 +8,8 @@
 ### Creating a Gmail Account
 ### Creating a Google Spreadsheet on Gmail Account
 * Log-in to your gmail account
+
+* On the top right corner, under the *Google Apps* 
 ### Downloading the Repository
 
 * Open the terminal.
