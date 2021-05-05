@@ -24,7 +24,7 @@
 
 ### Enabling GoogleSheets API
 * Under the **Getting Started** tab, click on **Explore and Enable APIs**.
-![](Enable Google Sheets API.JPG) 
+![](Enable_Google_Sheets_API.JPG) 
 
 ### Downloading the Repository
 
