@@ -58,6 +58,7 @@
 
 * Select the **Keys** tab.
 * Under the **Add Key** option, click on **Create new key**.
+* Select **JSON** and click **Create**. The user will be prompted to save the secret key in json format.
 
 ### Downloading the Repository
 
