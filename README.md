@@ -10,7 +10,8 @@
 * Log-in to your gmail account
 * On the top right corner, under the **Google Apps** option, click on **Sheets**.
 * Select the **Blank** option that will open a new spreadsheet.
-* Insert some column names and add rows data under them.Rename the name of the sheet and save you data with an appropriate name. 
+* Insert some column names and add rows data under them.
+* Rename the sheet and save the file with an appropriate name. 
 
 ### Initializing a Project in Developers Console
 * Go to https://console.developers.google.com
