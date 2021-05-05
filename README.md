@@ -45,6 +45,8 @@
 ![](Service_Account.JPG)
 
 ### Sharing Google Sheet with Service Account
+* Open the already created google spreadsheet.
+* Share the sheet with the service account email created in the previous steps.
 
 
 
