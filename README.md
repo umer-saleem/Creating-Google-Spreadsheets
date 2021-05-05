@@ -1,6 +1,9 @@
 # Data Extraction using Google Spreadsheet (Python) In Development
+## Recommended Softwares
+* PyCharm Editor
 
 ## Steps to Perform
+## Google Documentation
 ### Creating a Gmail Account
 ### Downloading the Repository
 
