@@ -4,9 +4,9 @@
 
 ### Downloading the Repository
 
-Open the terminal
+* Open the terminal
 
-Navigate inside the root folder of the repository
+* Navigate inside the root folder of the repository
 
 `$ cd google_spreadsheet_python`
 
