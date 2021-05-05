@@ -4,10 +4,14 @@
 
 ### Downloading the Repository
 
-* Open the terminal
+* Open the terminal.
 
-* Navigate inside the root folder of the repository
+* Navigate inside the root folder of the repository.
 
   `$ cd google_spreadsheet_python`
+  
+* Install the python packages using the requirements.txt file.
+
+  `$ pip install -r requirements.txt`
 
 ### Installing Python Libraries
