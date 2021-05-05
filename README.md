@@ -19,6 +19,9 @@
 * On the new dialogue box, click on the **New Project** option.
 ![](New_Project.jpg)
 
+* Name your project and click the **Create** button below.
+![](Project_Name.jpg)
+
 ### Downloading the Repository
 
 * Open the terminal.
