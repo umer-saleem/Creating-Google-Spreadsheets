@@ -22,6 +22,10 @@
 * Name your project and click the **Create** button below.
 ![](Project_Name.JPG)
 
+### Enabling GoogleSheets API
+* Under the **Getting Started** tab, click on **Explore and Enable APIs**.
+![](Enable Google Sheets API.JPG) 
+
 ### Downloading the Repository
 
 * Open the terminal.
