@@ -1,10 +1,10 @@
 # Data Extraction using Google Spreadsheet - Python
-## Recommended Softwares
-* PyCharm Editor
-* Python 3.7 **(Python 3.7.9 is used for scripting)**
+## • Recommended Softwares
+1. PyCharm Editor
+2. Python 3.7 **(Python 3.7.9 is used for scripting)**
 
 ## Steps to Perform
-## Google Documentation
+## • Google Documentation
 ### Creating a Gmail Account
 ### Creating a Google Spreadsheet on Gmail Account
 * Log-in to your gmail account
