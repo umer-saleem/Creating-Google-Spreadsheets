@@ -57,6 +57,7 @@
 ![](Service_Account.JPG)
 
 * Select the **Keys** tab.
+* Under the **Add Key** option, click on **Create new key**.
 
 ### Downloading the Repository
 
