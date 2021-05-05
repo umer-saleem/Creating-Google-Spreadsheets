@@ -34,6 +34,11 @@
 
 ![](Enable_API.JPG)
 
+* Select **Google Sheets API** and enable it.
+
+
+
+
 ### Downloading the Repository
 
 * Open the terminal.
