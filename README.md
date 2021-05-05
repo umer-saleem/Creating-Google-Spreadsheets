@@ -63,9 +63,9 @@
 
 ### 7. Clone the GitHub Repository
 
-* Open the terminal.
+* Download and unzip the repository.
 
-* Navigate inside the root folder of the repository.
+* Navigate inside the root folder of the repository using the terminal.
 
   `$ cd google_spreadsheet_python`
   
