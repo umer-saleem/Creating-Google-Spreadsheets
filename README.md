@@ -16,3 +16,4 @@
   
 
 **Python virtual environment** is recommended.
+**Note: Python 3.7.9 is the used version for scripting ** 
