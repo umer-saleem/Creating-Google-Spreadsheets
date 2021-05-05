@@ -17,9 +17,11 @@
 * Go to https://console.developers.google.com
 * To create a new project, click on the drop-down menu on the top left side of the page.
 * On the new dialogue box, click on the **New Project** option.
-![](New_Project.jpg)
+*
+![](Project_Name.jpg)
 
 * Name your project and click the **Create** button below.
+
 ![](Project_Name.jpg)
 
 ### Downloading the Repository
