@@ -11,7 +11,11 @@
 
 * On the top right corner, under the **Google Apps** option, click on **Sheets**.
 
-* Select the **Blank** option that will open a new spreadsheet.  
+* Select the **Blank** option that will open a new spreadsheet.
+
+* Insert some column names and add rows data under them.Rename the name of the sheet and save you data with an appropriate name. 
+
+
 ### Downloading the Repository
 
 * Open the terminal.
