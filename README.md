@@ -61,7 +61,7 @@
 * Select **JSON** and click **Create**. The user will be prompted to save the secret key in json format.
 * To keep things simple, rename the json file. For e.g. **keys.json**. Place it under the root directory.
 
-### 7. Downloading the Repository
+### 7. Clone the GitHub Repository
 
 * Open the terminal.
 
