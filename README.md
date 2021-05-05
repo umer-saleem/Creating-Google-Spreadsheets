@@ -41,6 +41,7 @@
 
 * Click **CREATE SERVICE ACCOUNT** option. Give any name to the account and click **CREATE**.
 * Assign the account with **Editor** role under the **Project** option. Click **CONTINUE**.
+* Click **Done**. A service account will be created as shown below
 ![](Service_Account.JPG)
 
 
