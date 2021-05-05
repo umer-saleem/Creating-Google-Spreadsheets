@@ -1,6 +1,7 @@
 # Data Extraction using Google Spreadsheet (Python) In Development
 ## Recommended Softwares
 * PyCharm Editor
+* Python 3.7.x
 
 ## Steps to Perform
 ## Google Documentation
