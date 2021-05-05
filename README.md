@@ -44,7 +44,7 @@
 * Click **Done**. A service account will be created as shown below
 ![](Service_Account.JPG)
 
-### Sharing Google Sheet with Share Account
+### Sharing Google Sheet with Service Account
 
 
 
