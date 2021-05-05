@@ -8,6 +8,6 @@
 
 * Navigate inside the root folder of the repository
 
-    `$ cd google_spreadsheet_python`
+  `$ cd google_spreadsheet_python`
 
 ### Installing Python Libraries
