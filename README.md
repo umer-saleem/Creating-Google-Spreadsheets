@@ -32,7 +32,7 @@
 * Click on the **ENABLE APIS AND SERVICES** option.
 
 
-![](Enable_API.JPG)
+![](Images/Enable_API.JPG)
 
 * Select **Google Sheets API** and enable it.
 * Click on **Credentials** on the left side of the page
