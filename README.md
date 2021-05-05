@@ -6,6 +6,7 @@
 ## Steps to Perform
 ## Google Documentation
 ### Creating a Gmail Account
+### Creating a Google Spreadsheet on Gmail Account
 ### Downloading the Repository
 
 * Open the terminal.
