@@ -24,8 +24,9 @@
 
 ### Enabling GoogleSheets API
 * Under the **Getting Started** tab, click on **Explore and Enable APIs**.
-![](Enable_Google_Sheets_API.JPG) 
 
+
+![](Enable_Google_Sheets_API.JPG) 
 
 
 * Click on the **ENABLE APIS AND SERVICES** option.
