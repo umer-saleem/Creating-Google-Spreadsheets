@@ -76,6 +76,7 @@
 * Open the spreadsheet in gmail account and copy the url. For e.g. **https://docs.google.com/spreadsheets/d/SPREADSHEET_ID/edit#gid=0**. Here just keep the **SPREADSHEET_ID** and remove the rest. Assign this string to the **SAMPLE_SPREADSHEET_ID** variable in the **main.py** file inside the root directory.
 * Inside the **main.py** script, for the value of the **range** parameter of the **sheet.values().get(range = Sheet_Name!A1:E16)** function, replace **Sheet_Name** with the sheet name of the google sheet to be extracted. Also replace **A1:E16** with excel coordinates for complete data from top left to bottom right of the specific sheet to be extracted.
 * After making the above changes, execute the python script.
+
   `$ python main.py`
   
 
