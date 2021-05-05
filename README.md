@@ -14,4 +14,4 @@
 
   `$ pip install -r requirements.txt`
 
-### Installing Python Libraries
+**Python virtual environment** is recommended.
