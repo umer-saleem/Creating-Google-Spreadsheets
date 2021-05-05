@@ -35,7 +35,12 @@
 ![](Enable_API.JPG)
 
 * Select **Google Sheets API** and enable it.
+* Click on **Credentials** on the left side of the page
+* Create a service account compatible with the enabled Spreadsheets API by clicking on **Manage service accounts** on the right side.
+![](Manage_Service_Accounts.JPG)
 
+* Click **CREATE SERVICE ACCOUNT** option. Give any name to the account and click **CREATE**.
+![](Service_Account.JPG)
 
 
 
