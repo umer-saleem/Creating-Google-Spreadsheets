@@ -2,18 +2,18 @@
 ## • Recommended Softwares
 1. PyCharm Editor
 2. Python 3.7 **(Python 3.7.9 is used for scripting)**
+3. **Python virtual environment** is recommended.
 
-## Steps to Perform
-## • Google Documentation
-### Creating a Gmail Account
-### Creating a Google Spreadsheet on Gmail Account
+## • Steps to Perform
+### 1. Creating a Gmail Account
+### 2. Creating a Google Spreadsheet on Gmail Account
 * Log-in to your gmail account
 * On the top right corner, under the **Google Apps** option, click on **Sheets**.
 * Select the **Blank** option that will open a new spreadsheet.
 * Insert some column names and add rows data under them.
 * Rename the sheet and save the file with an appropriate name. 
 
-### Initializing a Project in Developers Console
+### 3. Initializing a Project in Developers Console
 * Go to https://console.developers.google.com
 * To create a new project, click on the drop-down menu on the top left side of the page.
 * On the new dialogue box, click on the **New Project** option.
@@ -22,7 +22,7 @@
 * Name your project and click the **Create** button below.
 ![](Project_Name.JPG)
 
-### Enabling GoogleSheets API
+### 4. Enabling GoogleSheets API
 * Under the **Getting Started** tab, click on **Explore and Enable APIs**.
 
 
@@ -44,7 +44,7 @@
 * Click **Done**. A service account will be created as shown below
 ![](Service_Account.JPG)
 
-### Sharing Google Sheet with Service Account
+### 5. Sharing Google Sheet with Service Account
 * Open the already created google spreadsheet.
 * Click on the **Share** button on the top right corner.
 * Enter the service account email created in the previous steps.
@@ -52,7 +52,7 @@
 
 * Uncheck **Notify People** option and click **Share** with **Editor** option.
 
-### Log-in to the Service Account
+### 6. Log-in to the Service Account
 * Click on the service account email.
 ![](Service_Account.JPG)
 
@@ -61,7 +61,7 @@
 * Select **JSON** and click **Create**. The user will be prompted to save the secret key in json format.
 * To keep things simple, rename the json file. For e.g. **keys.json**. Place it under the root directory.
 
-### Downloading the Repository
+### 7. Downloading the Repository
 
 * Open the terminal.
 
@@ -79,5 +79,3 @@
 
   `$ python main.py`
   
-
-**Python virtual environment** is recommended.
