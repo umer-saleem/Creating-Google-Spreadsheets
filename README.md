@@ -1,7 +1,7 @@
 # Data Extraction using Google Spreadsheet (Python)
 
 ## Steps to Perform
-
+### Creating a Gmail Account
 ### Downloading the Repository
 
 * Open the terminal.
