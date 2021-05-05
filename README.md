@@ -17,16 +17,16 @@
 * Go to https://console.developers.google.com
 * To create a new project, click on the drop-down menu on the top left side of the page.
 * On the new dialogue box, click on the **New Project** option.
-![](New_Project.jpg)
+![](Images/New_Project.jpg)
 
 * Name your project and click the **Create** button below.
-![](Project_Name.JPG)
+![](Images/Project_Name.JPG)
 
 ### 4. Enabling GoogleSheets API
 * Under the **Getting Started** tab, click on **Explore and Enable APIs**.
 
 
-![](Enable_Google_Sheets_API.JPG) 
+![](Images/Enable_Google_Sheets_API.JPG) 
 
 
 * Click on the **ENABLE APIS AND SERVICES** option.
@@ -37,24 +37,24 @@
 * Select **Google Sheets API** and enable it.
 * Click on **Credentials** on the left side of the page
 * Create a service account compatible with the enabled Spreadsheets API by clicking on **Manage service accounts** option on the right.
-![](Manage_Service_Accounts.JPG)
+![](Images/Manage_Service_Accounts.JPG)
 
 * Click **CREATE SERVICE ACCOUNT** option. Give any name to the account and click **CREATE**.
 * Assign the account with **Editor** role under the **Project** option. Click **CONTINUE**.
 * Click **Done**. A service account will be created as shown below
-![](Service_Account.JPG)
+![](Images/Service_Account.JPG)
 
 ### 5. Sharing Google Sheet with Service Account
 * Open the already created google spreadsheet.
 * Click on the **Share** button on the top right corner.
 * Enter the service account email created in the previous steps.
-![](Sharing_Service_Account.JPG)
+![](Images/Sharing_Service_Account.JPG)
 
 * Uncheck **Notify People** option and click **Share** with **Editor** option.
 
 ### 6. Log-in to the Service Account
 * Click on the service account email.
-![](Service_Account.JPG)
+![](Images/Service_Account.JPG)
 
 * Select the **Keys** tab.
 * Under the **Add Key** option, click on **Create new key**.
