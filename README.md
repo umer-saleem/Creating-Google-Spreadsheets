@@ -56,6 +56,8 @@
 * Click on the service account email.
 ![](Service_Account.JPG)
 
+* Select the **Keys** tab.
+
 ### Downloading the Repository
 
 * Open the terminal.
