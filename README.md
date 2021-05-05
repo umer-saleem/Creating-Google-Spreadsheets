@@ -40,6 +40,7 @@
 ![](Manage_Service_Accounts.JPG)
 
 * Click **CREATE SERVICE ACCOUNT** option. Give any name to the account and click **CREATE**.
+* Assign read and write permissions to the account by selecting **Editor** under the **Project** option.Click **CONTINUE**.
 ![](Service_Account.JPG)
 
 
