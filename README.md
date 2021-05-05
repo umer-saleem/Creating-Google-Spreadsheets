@@ -16,7 +16,7 @@
 ### Initializing a Project in Developers Console
 * Go to https://console.developers.google.com
 * To create a new project, click on the drop-down menu on the top left side of the page.
-* ![](New_Project.png)
+![](New_Project.png)
 ### Downloading the Repository
 
 * Open the terminal.
