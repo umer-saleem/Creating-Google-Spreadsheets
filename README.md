@@ -53,7 +53,8 @@
 * Uncheck **Notify People** option and click **Share** with **Editor** option.
 
 ### Log-in to the Service Account
-
+* Click on the service account email.
+![](Service_Account.JPG)
 
 ### Downloading the Repository
 
