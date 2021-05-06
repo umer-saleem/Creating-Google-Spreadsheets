@@ -59,7 +59,7 @@
 * Select the **Keys** tab.
 * Under the **Add Key** option, click on **Create new key**.
 * Select **JSON** and click **Create**. The user will be prompted to save the secret key in json format.
-* To keep things simple, rename the json file. For e.g. **keys.json**. Place it under the root directory.
+* To keep things simple, rename the json file. For e.g. **keys.json**. Place it under the root directory. (**Perform this after cloning the repo in Step 7**)
 
 ### 7. Clone the GitHub Repository
 
