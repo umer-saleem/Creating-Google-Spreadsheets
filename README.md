@@ -1,4 +1,4 @@
-# Data Extraction using Google Spreadsheet - Python
+# Data Extraction using Google Spreadsheet (Python)
 ## • Recommended Softwares
 1. PyCharm Editor
 2. Python 3.7 **(Python 3.7.9 is used for scripting)**
